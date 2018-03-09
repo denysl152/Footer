@@ -1,0 +1,23 @@
+ul {
+  list-style: none;
+  display: flex;
+  text-align: right;
+  justify-content: space-around;
+}
+
+.page-footer {
+  background-color: #999999;
+}
+
+.fa {
+  color: white;
+}
+
+.fa:hover {
+  color: gold;
+}
+
+.container {
+  color: white;
+  text-align: center;
+}
